@@ -4,7 +4,7 @@ This a application on which user can play the game called Hangman. Built with AS
 ## Getting started ##
 Begin by cloning the project repository onto your local computer:
 
-	git clone https://github.com/iosdecal/ios-decal-proj1.git
+	git clone https://github.com/ecatugy/hangman.git
   
   
 ## Projets
