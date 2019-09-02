@@ -1,0 +1,12 @@
+.VirtualKeyboard {
+    text-transform: uppercase;
+  }
+  
+  .VirtualKeyboard > div {
+    margin-bottom: 8px;
+  }
+  
+  .VirtualKeyboard > div:last-child {
+    margin-bottom: 0;
+  }
+  
