@@ -1,0 +1,2 @@
+# Hangman
+This a application on which user can play the game called Hangman. Built with ASP.NET CORE (Backend) and React (Frontend). Basically a word guessing game in which a user is presented with a hidden word and he/she has to guess the word within a fixed number of attempts (5). The words to be guessed are randomly selected from the file XML  called "Word.xml -> Hangman.Infrastructure" (each word has to be on node &lt;word>)
