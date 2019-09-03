@@ -20,7 +20,7 @@ The application is divided into two projects
 
 
 
-### .REACT
+### REACT
 
 * Install Node JS 12.9.1 or whatever is the latest.
 * Install Visual Studio Code
@@ -29,6 +29,8 @@ The application is divided into two projects
 * Open command prompt from Visual Studio Code and execute (npm install)
 * After install execute (npm start)
 
+
+Visit https://ecatugy.github.io/hangman/ to play the game.
 
 
 
