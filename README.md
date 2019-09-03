@@ -30,7 +30,8 @@ The application is divided into two projects
 * After install execute (npm start)
 
 
-##### You have 5 attempts to hit the word, if you miss 5 times the game ends, if you hit the word with the 5 attempts you win. Play now: ##### https://ecatugy.github.io/hangman/
+##### You have 5 attempts to hit the word, if you miss 5 times the game ends, if you hit the word with the 5 attempts you win. 
+##### Play now:  https://ecatugy.github.io/hangman/
 
 
 
