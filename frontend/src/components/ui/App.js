@@ -1,7 +1,7 @@
 import React, { useState, useEffect, Fragment } from "react";
 import { GAME_STARTED, GAME_WON, GAME_OVER } from "../../constants";
-import { gameFactory } from "../../lib/Game";
-import axios from "axios";
+import { gameFactory, getInitialState } from "../../lib/Game";
+
 import { Game } from "../ui";
 
 export const App = () => {
@@ -71,7 +71,7 @@ export const App = () => {
 
   useEffect(() => {
     (async () => {
-      const result = await axios(process.env.REACT_APP_API_WORD);
+      const result = await getInitialState();
       setData({
         words: result.data,
         loading: false,

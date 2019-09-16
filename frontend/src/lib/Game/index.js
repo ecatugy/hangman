@@ -1,1 +1,1 @@
-export { gameFactory } from './gameFactory';
+export { gameFactory, getInitialState } from './gameFactory';
